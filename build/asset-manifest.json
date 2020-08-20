@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e83dad93.chunk.css",
+    "main.js": "/static/js/main.1e41e0b9.chunk.js",
+    "main.js.map": "/static/js/main.1e41e0b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67bfdc7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67bfdc7e.js.map",
+    "static/js/2.4325b387.chunk.js": "/static/js/2.4325b387.chunk.js",
+    "static/js/2.4325b387.chunk.js.map": "/static/js/2.4325b387.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.be3e25c3f2d7bddf5a357e4c1b70171d.js": "/precache-manifest.be3e25c3f2d7bddf5a357e4c1b70171d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e83dad93.chunk.css.map": "/static/css/main.e83dad93.chunk.css.map",
+    "static/js/2.4325b387.chunk.js.LICENSE.txt": "/static/js/2.4325b387.chunk.js.LICENSE.txt",
+    "static/media/whatsapplogo.png": "/static/media/whatsapplogo.3a8dad7f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67bfdc7e.js",
+    "static/js/2.4325b387.chunk.js",
+    "static/css/main.e83dad93.chunk.css",
+    "static/js/main.1e41e0b9.chunk.js"
+  ]
+}
